@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		3D108A052D51158B002CE40D /* PBXContainerItemProxy */ = {
+		3D9EDA2C2D511C3F00E74FF6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3D1089EC2D51158A002CE40D /* Project object */;
+			containerPortal = 3D9EDA132D511C3D00E74FF6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3D1089F32D51158A002CE40D;
+			remoteGlobalIDString = 3D9EDA1A2D511C3D00E74FF6;
 			remoteInfo = pedometer;
 		};
-		3D108A0F2D51158B002CE40D /* PBXContainerItemProxy */ = {
+		3D9EDA362D511C3F00E74FF6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3D1089EC2D51158A002CE40D /* Project object */;
+			containerPortal = 3D9EDA132D511C3D00E74FF6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3D1089F32D51158A002CE40D;
+			remoteGlobalIDString = 3D9EDA1A2D511C3D00E74FF6;
 			remoteInfo = pedometer;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3D1089F42D51158A002CE40D /* pedometer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pedometer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D108A042D51158B002CE40D /* pedometerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pedometerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D108A0E2D51158B002CE40D /* pedometerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pedometerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D9EDA1B2D511C3D00E74FF6 /* pedometer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pedometer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D9EDA2B2D511C3F00E74FF6 /* pedometerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pedometerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D9EDA352D511C3F00E74FF6 /* pedometerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pedometerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3D108A222D5116B4002CE40D /* Exceptions for "pedometer" folder in "pedometer" target */ = {
+		3D9EDA492D511C7100E74FF6 /* Exceptions for "pedometer" folder in "pedometer" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3D1089F32D51158A002CE40D /* pedometer */;
+			target = 3D9EDA1A2D511C3D00E74FF6 /* pedometer */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3D1089F62D51158A002CE40D /* pedometer */ = {
+		3D9EDA1D2D511C3D00E74FF6 /* pedometer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3D108A222D5116B4002CE40D /* Exceptions for "pedometer" folder in "pedometer" target */,
+				3D9EDA492D511C7100E74FF6 /* Exceptions for "pedometer" folder in "pedometer" target */,
 			);
 			path = pedometer;
 			sourceTree = "<group>";
 		};
-		3D108A072D51158B002CE40D /* pedometerTests */ = {
+		3D9EDA2E2D511C3F00E74FF6 /* pedometerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = pedometerTests;
 			sourceTree = "<group>";
 		};
-		3D108A112D51158B002CE40D /* pedometerUITests */ = {
+		3D9EDA382D511C3F00E74FF6 /* pedometerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = pedometerUITests;
 			sourceTree = "<group>";
@@ -61,21 +61,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3D1089F12D51158A002CE40D /* Frameworks */ = {
+		3D9EDA182D511C3D00E74FF6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A012D51158B002CE40D /* Frameworks */ = {
+		3D9EDA282D511C3F00E74FF6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A0B2D51158B002CE40D /* Frameworks */ = {
+		3D9EDA322D511C3F00E74FF6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3D1089EB2D51158A002CE40D = {
+		3D9EDA122D511C3D00E74FF6 = {
 			isa = PBXGroup;
 			children = (
-				3D1089F62D51158A002CE40D /* pedometer */,
-				3D108A072D51158B002CE40D /* pedometerTests */,
-				3D108A112D51158B002CE40D /* pedometerUITests */,
-				3D1089F52D51158A002CE40D /* Products */,
+				3D9EDA1D2D511C3D00E74FF6 /* pedometer */,
+				3D9EDA2E2D511C3F00E74FF6 /* pedometerTests */,
+				3D9EDA382D511C3F00E74FF6 /* pedometerUITests */,
+				3D9EDA1C2D511C3D00E74FF6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3D1089F52D51158A002CE40D /* Products */ = {
+		3D9EDA1C2D511C3D00E74FF6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D1089F42D51158A002CE40D /* pedometer.app */,
-				3D108A042D51158B002CE40D /* pedometerTests.xctest */,
-				3D108A0E2D51158B002CE40D /* pedometerUITests.xctest */,
+				3D9EDA1B2D511C3D00E74FF6 /* pedometer.app */,
+				3D9EDA2B2D511C3F00E74FF6 /* pedometerTests.xctest */,
+				3D9EDA352D511C3F00E74FF6 /* pedometerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D1089F32D51158A002CE40D /* pedometer */ = {
+		3D9EDA1A2D511C3D00E74FF6 /* pedometer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D108A182D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometer" */;
+			buildConfigurationList = 3D9EDA3F2D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometer" */;
 			buildPhases = (
-				3D1089F02D51158A002CE40D /* Sources */,
-				3D1089F12D51158A002CE40D /* Frameworks */,
-				3D1089F22D51158A002CE40D /* Resources */,
+				3D9EDA172D511C3D00E74FF6 /* Sources */,
+				3D9EDA182D511C3D00E74FF6 /* Frameworks */,
+				3D9EDA192D511C3D00E74FF6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3D1089F62D51158A002CE40D /* pedometer */,
+				3D9EDA1D2D511C3D00E74FF6 /* pedometer */,
 			);
 			name = pedometer;
 			packageProductDependencies = (
 			);
 			productName = pedometer;
-			productReference = 3D1089F42D51158A002CE40D /* pedometer.app */;
+			productReference = 3D9EDA1B2D511C3D00E74FF6 /* pedometer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3D108A032D51158B002CE40D /* pedometerTests */ = {
+		3D9EDA2A2D511C3F00E74FF6 /* pedometerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D108A1B2D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometerTests" */;
+			buildConfigurationList = 3D9EDA422D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometerTests" */;
 			buildPhases = (
-				3D108A002D51158B002CE40D /* Sources */,
-				3D108A012D51158B002CE40D /* Frameworks */,
-				3D108A022D51158B002CE40D /* Resources */,
+				3D9EDA272D511C3F00E74FF6 /* Sources */,
+				3D9EDA282D511C3F00E74FF6 /* Frameworks */,
+				3D9EDA292D511C3F00E74FF6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3D108A062D51158B002CE40D /* PBXTargetDependency */,
+				3D9EDA2D2D511C3F00E74FF6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3D108A072D51158B002CE40D /* pedometerTests */,
+				3D9EDA2E2D511C3F00E74FF6 /* pedometerTests */,
 			);
 			name = pedometerTests;
 			packageProductDependencies = (
 			);
 			productName = pedometerTests;
-			productReference = 3D108A042D51158B002CE40D /* pedometerTests.xctest */;
+			productReference = 3D9EDA2B2D511C3F00E74FF6 /* pedometerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3D108A0D2D51158B002CE40D /* pedometerUITests */ = {
+		3D9EDA342D511C3F00E74FF6 /* pedometerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D108A1E2D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometerUITests" */;
+			buildConfigurationList = 3D9EDA452D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometerUITests" */;
 			buildPhases = (
-				3D108A0A2D51158B002CE40D /* Sources */,
-				3D108A0B2D51158B002CE40D /* Frameworks */,
-				3D108A0C2D51158B002CE40D /* Resources */,
+				3D9EDA312D511C3F00E74FF6 /* Sources */,
+				3D9EDA322D511C3F00E74FF6 /* Frameworks */,
+				3D9EDA332D511C3F00E74FF6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3D108A102D51158B002CE40D /* PBXTargetDependency */,
+				3D9EDA372D511C3F00E74FF6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				3D108A112D51158B002CE40D /* pedometerUITests */,
+				3D9EDA382D511C3F00E74FF6 /* pedometerUITests */,
 			);
 			name = pedometerUITests;
 			packageProductDependencies = (
 			);
 			productName = pedometerUITests;
-			productReference = 3D108A0E2D51158B002CE40D /* pedometerUITests.xctest */;
+			productReference = 3D9EDA352D511C3F00E74FF6 /* pedometerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3D1089EC2D51158A002CE40D /* Project object */ = {
+		3D9EDA132D511C3D00E74FF6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					3D1089F32D51158A002CE40D = {
+					3D9EDA1A2D511C3D00E74FF6 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					3D108A032D51158B002CE40D = {
+					3D9EDA2A2D511C3F00E74FF6 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 3D1089F32D51158A002CE40D;
+						TestTargetID = 3D9EDA1A2D511C3D00E74FF6;
 					};
-					3D108A0D2D51158B002CE40D = {
+					3D9EDA342D511C3F00E74FF6 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 3D1089F32D51158A002CE40D;
+						TestTargetID = 3D9EDA1A2D511C3D00E74FF6;
 					};
 				};
 			};
-			buildConfigurationList = 3D1089EF2D51158A002CE40D /* Build configuration list for PBXProject "pedometer" */;
+			buildConfigurationList = 3D9EDA162D511C3D00E74FF6 /* Build configuration list for PBXProject "pedometer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 3D1089EB2D51158A002CE40D;
+			mainGroup = 3D9EDA122D511C3D00E74FF6;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 3D1089F52D51158A002CE40D /* Products */;
+			productRefGroup = 3D9EDA1C2D511C3D00E74FF6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D1089F32D51158A002CE40D /* pedometer */,
-				3D108A032D51158B002CE40D /* pedometerTests */,
-				3D108A0D2D51158B002CE40D /* pedometerUITests */,
+				3D9EDA1A2D511C3D00E74FF6 /* pedometer */,
+				3D9EDA2A2D511C3F00E74FF6 /* pedometerTests */,
+				3D9EDA342D511C3F00E74FF6 /* pedometerUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3D1089F22D51158A002CE40D /* Resources */ = {
+		3D9EDA192D511C3D00E74FF6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A022D51158B002CE40D /* Resources */ = {
+		3D9EDA292D511C3F00E74FF6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A0C2D51158B002CE40D /* Resources */ = {
+		3D9EDA332D511C3F00E74FF6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3D1089F02D51158A002CE40D /* Sources */ = {
+		3D9EDA172D511C3D00E74FF6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A002D51158B002CE40D /* Sources */ = {
+		3D9EDA272D511C3F00E74FF6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D108A0A2D51158B002CE40D /* Sources */ = {
+		3D9EDA312D511C3F00E74FF6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		3D108A062D51158B002CE40D /* PBXTargetDependency */ = {
+		3D9EDA2D2D511C3F00E74FF6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3D1089F32D51158A002CE40D /* pedometer */;
-			targetProxy = 3D108A052D51158B002CE40D /* PBXContainerItemProxy */;
+			target = 3D9EDA1A2D511C3D00E74FF6 /* pedometer */;
+			targetProxy = 3D9EDA2C2D511C3F00E74FF6 /* PBXContainerItemProxy */;
 		};
-		3D108A102D51158B002CE40D /* PBXTargetDependency */ = {
+		3D9EDA372D511C3F00E74FF6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3D1089F32D51158A002CE40D /* pedometer */;
-			targetProxy = 3D108A0F2D51158B002CE40D /* PBXContainerItemProxy */;
+			target = 3D9EDA1A2D511C3D00E74FF6 /* pedometer */;
+			targetProxy = 3D9EDA362D511C3F00E74FF6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		3D108A162D51158B002CE40D /* Debug */ = {
+		3D9EDA3D2D511C3F00E74FF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -345,7 +345,7 @@
 			};
 			name = Debug;
 		};
-		3D108A172D51158B002CE40D /* Release */ = {
+		3D9EDA3E2D511C3F00E74FF6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +401,7 @@
 			};
 			name = Release;
 		};
-		3D108A192D51158B002CE40D /* Debug */ = {
+		3D9EDA402D511C3F00E74FF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -413,9 +413,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pedometer/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = pedometer;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
-				INFOPLIST_KEY_NSMotionUsageDescription = "歩数を数えるために必要";
+				INFOPLIST_KEY_NSMotionUsageDescription = "歩数をカウントするために必要です";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -434,7 +432,7 @@
 			};
 			name = Debug;
 		};
-		3D108A1A2D51158B002CE40D /* Release */ = {
+		3D9EDA412D511C3F00E74FF6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -446,9 +444,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = pedometer/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = pedometer;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
-				INFOPLIST_KEY_NSMotionUsageDescription = "歩数を数えるために必要";
+				INFOPLIST_KEY_NSMotionUsageDescription = "歩数をカウントするために必要です";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -467,7 +463,7 @@
 			};
 			name = Release;
 		};
-		3D108A1C2D51158B002CE40D /* Debug */ = {
+		3D9EDA432D511C3F00E74FF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -486,7 +482,7 @@
 			};
 			name = Debug;
 		};
-		3D108A1D2D51158B002CE40D /* Release */ = {
+		3D9EDA442D511C3F00E74FF6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -505,7 +501,7 @@
 			};
 			name = Release;
 		};
-		3D108A1F2D51158B002CE40D /* Debug */ = {
+		3D9EDA462D511C3F00E74FF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -522,7 +518,7 @@
 			};
 			name = Debug;
 		};
-		3D108A202D51158B002CE40D /* Release */ = {
+		3D9EDA472D511C3F00E74FF6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -542,43 +538,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D1089EF2D51158A002CE40D /* Build configuration list for PBXProject "pedometer" */ = {
+		3D9EDA162D511C3D00E74FF6 /* Build configuration list for PBXProject "pedometer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D108A162D51158B002CE40D /* Debug */,
-				3D108A172D51158B002CE40D /* Release */,
+				3D9EDA3D2D511C3F00E74FF6 /* Debug */,
+				3D9EDA3E2D511C3F00E74FF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D108A182D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometer" */ = {
+		3D9EDA3F2D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D108A192D51158B002CE40D /* Debug */,
-				3D108A1A2D51158B002CE40D /* Release */,
+				3D9EDA402D511C3F00E74FF6 /* Debug */,
+				3D9EDA412D511C3F00E74FF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D108A1B2D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometerTests" */ = {
+		3D9EDA422D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D108A1C2D51158B002CE40D /* Debug */,
-				3D108A1D2D51158B002CE40D /* Release */,
+				3D9EDA432D511C3F00E74FF6 /* Debug */,
+				3D9EDA442D511C3F00E74FF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D108A1E2D51158B002CE40D /* Build configuration list for PBXNativeTarget "pedometerUITests" */ = {
+		3D9EDA452D511C3F00E74FF6 /* Build configuration list for PBXNativeTarget "pedometerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3D108A1F2D51158B002CE40D /* Debug */,
-				3D108A202D51158B002CE40D /* Release */,
+				3D9EDA462D511C3F00E74FF6 /* Debug */,
+				3D9EDA472D511C3F00E74FF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3D1089EC2D51158A002CE40D /* Project object */;
+	rootObject = 3D9EDA132D511C3D00E74FF6 /* Project object */;
 }

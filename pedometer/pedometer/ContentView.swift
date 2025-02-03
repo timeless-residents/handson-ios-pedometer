@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  pedometer
-//
-//  Created by sato takuya on 2025/02/04.
-//
-
 import CoreMotion
 import SwiftUI
 
