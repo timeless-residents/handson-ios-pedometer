@@ -29,9 +29,22 @@
 		3D108A0E2D51158B002CE40D /* pedometerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pedometerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3D108A222D5116B4002CE40D /* Exceptions for "pedometer" folder in "pedometer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3D1089F32D51158A002CE40D /* pedometer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3D1089F62D51158A002CE40D /* pedometer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3D108A222D5116B4002CE40D /* Exceptions for "pedometer" folder in "pedometer" target */,
+			);
 			path = pedometer;
 			sourceTree = "<group>";
 		};
@@ -399,6 +412,10 @@
 				DEVELOPMENT_TEAM = 25C4N3BSDD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = pedometer/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = pedometer;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSMotionUsageDescription = "歩数を数えるために必要";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +445,10 @@
 				DEVELOPMENT_TEAM = 25C4N3BSDD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = pedometer/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = pedometer;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSMotionUsageDescription = "歩数を数えるために必要";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
