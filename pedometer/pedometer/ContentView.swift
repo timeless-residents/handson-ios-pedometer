@@ -37,7 +37,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing: 20) {
-            Text("今日の歩数は")
+            Text("今日の歩数")
                 .font(.title)
             
             Text("\(pedometerManager.steps)")
